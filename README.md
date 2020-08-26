@@ -1,1 +1,3 @@
-# FYP-Module-3-TIC-TAC-TOE
+# Angular Tic-Tac-Toe PWA
+
+[Full Angular Course](https://fireship.io/courses/angular/)
